@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BluetoothApplication</string>
+    <string name="setting">action_settings</string>
+</resources>
